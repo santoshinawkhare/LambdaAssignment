@@ -1,0 +1,14 @@
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\bin\Debug\netcoreapp3.1\Day_24_Assign_lambda.exe
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\bin\Debug\netcoreapp3.1\Day_24_Assign_lambda.deps.json
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\bin\Debug\netcoreapp3.1\Day_24_Assign_lambda.runtimeconfig.json
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\bin\Debug\netcoreapp3.1\Day_24_Assign_lambda.runtimeconfig.dev.json
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\bin\Debug\netcoreapp3.1\Day_24_Assign_lambda.dll
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\bin\Debug\netcoreapp3.1\Day_24_Assign_lambda.pdb
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\obj\Debug\netcoreapp3.1\Day_24_Assign_lambda.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\obj\Debug\netcoreapp3.1\Day_24_Assign_lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\obj\Debug\netcoreapp3.1\Day_24_Assign_lambda.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\obj\Debug\netcoreapp3.1\Day_24_Assign_lambda.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\obj\Debug\netcoreapp3.1\Day_24_Assign_lambda.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\obj\Debug\netcoreapp3.1\Day_24_Assign_lambda.dll
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\obj\Debug\netcoreapp3.1\Day_24_Assign_lambda.pdb
+C:\Users\MY PC\Desktop\BridgeLabz\Day_24_Assign_lambda\lambda\Day_24_Assign_lambda\obj\Debug\netcoreapp3.1\Day_24_Assign_lambda.genruntimeconfig.cache
